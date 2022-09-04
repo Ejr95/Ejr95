@@ -1,5 +1,5 @@
       ### Hi there 👋
-                                                 🌱 I’m currently learning Java
+ 🌱 I’m currently learning Java
 
 <div align="center">
   <a href="https://github.com/Ejr95">
